@@ -46,6 +46,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\WaveSpawner.cs" />
      <Compile Include="Assets\enemy.cs" />
      <Compile Include="Assets\waypoints.cs" />
  <Reference Include="Facebook.Unity.Settings">
